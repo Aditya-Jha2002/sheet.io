@@ -1,0 +1,23 @@
+.btn{
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #272B31;
+    background-color: #fff;
+    border: 2px solid #1750FF;
+    border-radius: 15px;
+
+    cursor: pointer;
+    
+    padding: 1.5rem 0rem;
+}
+
+.btn:hover,
+.btn:focus{
+    background-color: #1750FF;
+    color: #fff;
+    
+}
